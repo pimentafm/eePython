@@ -1,5 +1,4 @@
-# eePython
-Fundamentos de Python e Google Earth Engine
+# Fundamentos de Python e Google Earth Engine
 
 Curso desenvolvido para capacitar os integrantes do Grupo de Pesquisa em Interação Atmosfera-Biosfera UFV
 (http://www.biosfera.dea.ufv.br) na utilização da Plataforma Google Earth Engine (Python API).
